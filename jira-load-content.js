@@ -51,4 +51,4 @@ function loadHTMLContent() {
 }
 
 // Call the function to load the HTML content
-loadHTMLContent();
+setTimeout("loadHTMLContent()",2000);
